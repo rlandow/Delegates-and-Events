@@ -1,0 +1,7 @@
+C:\Users\nxh4vpn\source\repos\DelegatesEvents\DelegatesEvents\bin\Debug\DelegatesEvents.exe.config
+C:\Users\nxh4vpn\source\repos\DelegatesEvents\DelegatesEvents\bin\Debug\DelegatesEvents.exe
+C:\Users\nxh4vpn\source\repos\DelegatesEvents\DelegatesEvents\bin\Debug\DelegatesEvents.pdb
+C:\Users\nxh4vpn\source\repos\DelegatesEvents\DelegatesEvents\obj\Debug\DelegatesEvents.csprojResolveAssemblyReference.cache
+C:\Users\nxh4vpn\source\repos\DelegatesEvents\DelegatesEvents\obj\Debug\DelegatesEvents.csproj.CoreCompileInputs.cache
+C:\Users\nxh4vpn\source\repos\DelegatesEvents\DelegatesEvents\obj\Debug\DelegatesEvents.exe
+C:\Users\nxh4vpn\source\repos\DelegatesEvents\DelegatesEvents\obj\Debug\DelegatesEvents.pdb
